@@ -87,3 +87,9 @@ button.nextbtn {
     color: #a76e6e;
     font-style: bold;
 }
+
+@media screen and (max-width: 786px) {
+    /* Resized content to fit 786px  */
+        body {
+            max-width: 786px;
+        }
